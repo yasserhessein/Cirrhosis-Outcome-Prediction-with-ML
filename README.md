@@ -77,18 +77,6 @@ This research contributes to:
 · Clinical Decision Support: Providing tools for healthcare professionals in hepatology
 
 
-Clinical Data Complexity
-          ↗
-         ╱ 
-        ╱ Heterogeneous
-       ╱   Sources
-      ○──────────────▶ Feature Space
-     ╱ \
-    ╱   \ Missing
-   ╱     \ Values
-  ╱       \
- ↗         ↘
-Noise      High Dimensions
 
 # 👨‍💻 Author
 
