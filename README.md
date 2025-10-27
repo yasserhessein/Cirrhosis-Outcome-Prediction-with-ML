@@ -77,6 +77,35 @@ This research contributes to:
 · Clinical Decision Support: Providing tools for healthcare professionals in hepatology
 
 
+
+
+# 👨‍💻 Author
+
+<div align="center">
+
+**🧑‍🔬 Dr. Yasir Hussein Shakir**  
+*AI Research Scientist | Artificial intelligence*
+
+
+
+> ⚠️ **Note:** If you encounter any issues with this code, please don't hesitate to contact me.
+
+## 📬 Contact Information
+
+<div align="center">
+
+| Platform | Address | Badge |
+|----------|---------|-------|
+| **🏫 Uniten** | `pe20911@uniten.edu.my` | ![Academic](https://img.shields.io/badge/%F0%9F%93%A7_Academic-00A2FF?style=flat-square) |
+| **📮 Yahoo** | `yasserhesseinshakir@yahoo.com` | ![Personal](https://img.shields.io/badge/%F0%9F%93%A8_Personal-720E9E?style=flat-square) |
+| **📚 Google Scholar** | [`Yasir Hussein`](https://scholar.google.com/citations?user=37iNJq0AAAAJ&hl=en) | ![Scholar](https://img.shields.io/badge/%F0%9F%93%9A_Scholar-4285F4?style=flat-square) |
+| **🏆 Kaggle** | [`yasserhessein`](https://www.kaggle.com/yasserhessein) | ![Competitions](https://img.shields.io/badge/%F0%9F%A5%87_Competitions-20BEFF?style=flat-square) |
+| **💻 GitHub** | [`yasserhessein`](https://github.com/yasserhessein) | ![Code](https://img.shields.io/badge/%F0%9F%90%99_Code-181717?style=flat-square) |
+| **💼 LinkedIn** | [`Yasir Hussein`](https://www.linkedin.com/in/yasir-hussein-314a65201/) | ![Professional](https://img.shields.io/badge/%F0%9F%91%94_Professional-0077B5?style=flat-square) |
+
+</div>
+
+
 📚 Citation
 
 ```bibtex
