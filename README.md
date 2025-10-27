@@ -9,6 +9,7 @@ Journal: Institute of Research and Publication Indonesia (IRPI)
 Volume: 3 Issue 1, July 2025, Pages 22-30
 ISSN: 3024-921X (Print) | 3024-8043 (Electronic)
 Journal Homepage: https://journal.irpi.or.id/index.php/predatecs
+like article: https://www.journal.irpi.or.id/index.php/predatecs/article/download/2015/1052
 
 🎯 Research Challenge
 
